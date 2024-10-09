@@ -24,32 +24,25 @@ My analysis employs linear regression techniques to evaluate the relationships b
 
 I also filtered the data to include only players who have played at least 1000 minutes in the 2024 season.
 
-## Key Findings
+## Key Findings 
 
-1. Salary vs. Points Per Possession (PPP)
-- Undervalued Players:
-      Players like R. Howard and A. Boston show high PPP but have relatively low salaries. This indicates they are contributing significantly to their teams’ scoring efficiency compared to their compensation.
+1. A'ja Wilson is a top performer
+- Consistenly ranks at the top of all analyzed charts, showcasing high salary, PER, PPP, and WS
+- Her substantial salary aligns with her outstanding performance metrics -- showing that her team is investing wisely in her
 
-- Overvalued Players:
-      Players such as D. Taurasi and A. Wilson have high salaries but do not have an exceptional PPP. 
+2. Undervalued player: Aliyah Boston
+- Boston's current salary is notably low compared to her PPP, WS, and PER
+- She is contributing effectively on the court, yet receiving relatively lower compenation. This makes her a good example of an undervalued player in the WNBA
 
-2. Salary vs. WS (Win Shares)
-- Undervalued Players:
-    D. Carrington and A. Smith demonstrate considerable contributions in terms of WS relative to their salaries. 
-- Overvalued Players:
-    Players like K. Mitchell and J. Jones have lower WS compared to their salary, suggesting they may not be performing up to the expectations set by their compensation.
-  
-3. Salary vs. Player Efficiency Rating (PER)
-- Undervalued Players:
-    R. Jackson and T. Harris are examples of players with high PER but lower salaries. 
-- Overvalued Players:
-  A. Ogunbowale and B. Stewart are among the higher earners
+3. Overvalyed player: Kalia Copper
+- Kalia Copper's salary for the 2024 season was $241,984, yet her PER and WS are notably low
+- Her performance metrics do not reflect her salary, suggesting that she is an overvalued player 
+
 
 ## Conclusion
-The analysis of WNBA player salaries in relation to performance metrics such as PPP, WS, and PER reveals significant insights into player valuation.
-Overall, the scatter plots indicate that there are distinct groups of players: those who outperform their salaries and those whose financial compensation does not align with their contributions. 
-Undervalued players exhibit strong performance metrics relative to their salary, suggesting they are providing exceptional value to their teams. These players could serve as potential assets for teams looking to enhance performance while optimizing their salary cap.
-In contrast, overvalued players often have high salaries without corresponding levels of performance, indicating that teams may not be maximizing their investments in these individuals. This discrepancy can lead to inefficiencies in team composition and overall performance.
-By identifying these trends, teams can make more informed decisions regarding player acquisition and retention, ensuring that financial resources are allocated effectively. This analysis also emphasizes the importance of assessing player value beyond just salary figures, considering a more broad view of performance and impact on the game.
+The analysis of WNBA player salaries in relation to performance metrics such as PPP, WS, and PER reveals significant insights into player valuation. Overall, the scatter plots indicate that there are distinct groups of players: those who are properly compensated, those who are undervalued, and those who are overvalued. 
+Undervalued players exhibit strong performance metrics relative to their salary, suggesting that they are providing exceptional value to their teams. 
+In contrast, overvalued players often have high salaries without corresponding levels of performance, indicating that teams may not be maximizing their investments. 
+By identifying these trends, teams can make more informed decisions regarding player acquisition and retention, ensuring proper allocation of financial resources. This analysis also emphasizes the importance of assessing player value beyond just salary figures, considering a more broad view of performance and impact on the game.
 As the WNBA continues to grow, recognizing the financial dynamics of player performance will be crucial for teams aiming to build competitive rosters while maintaining financial sustainability. 
 

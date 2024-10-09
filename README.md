@@ -17,10 +17,10 @@ I utilized and merged two datasets -- player statistics and salaries from the WN
 ## Methods
 
 My analysis employs linear regression techniques to evaluate the relationships between player salaries and performance metrics. The following R libraries were utilized:
-- `ggplot2`: For data visualization
-- `dplyr`: For data manipulation
-- `magick`: For image processing and saving high-quality plots
-- `scales`: For formatting axis labels
+- `ggplot2`: for data visualization
+- `dplyr`: for data manipulation
+- `magick`: for image processing and saving high-quality plots
+- `scales`: for formatting axis labels
 
 I also filtered the data to include only players who have played at least 1000 minutes in the 2024 season.
 
@@ -43,7 +43,7 @@ I also filtered the data to include only players who have played at least 1000 m
 - Undervalued Players:
     R. Jackson and T. Harris are examples of players with high PER but lower salaries. 
 - Overvalued Players:
-  A. Ogunbowale and B. Stewart are among the higher earners, but their PER suggests they may not be delivering proportional performance relative to their salaries.
+  A. Ogunbowale and B. Stewart are among the higher earners
 
 ## Conclusion
 The analysis of WNBA player salaries in relation to performance metrics such as PPP, WS, and PER reveals significant insights into player valuation.

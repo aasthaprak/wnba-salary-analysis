@@ -2,13 +2,12 @@
 
 ## Overview
 
-This project analyzes the salaries of WNBA players in the 2024 season, specifically focusing on players who played 1,000 or more minutes. 
-The analysis utilizes three scatter plots to examine the relationship between salary and key performance metrics: Points Per Possession (PPP), Win Shares (WS), 
-and Player Efficiency Rating (PER). The goal is to identify undervalued and overvalued players based on their performance relative to their salary.
+This project analyzes the salaries of WNBA players in the 2024 season, focusing on players who played 1,000 or more minutes. 
+My analysis utilizes three scatter plots to examine the relationship between salary and key performance metrics: Points Per Possession (PPP), Win Shares (WS), and Player Efficiency Rating (PER). My goal is to identify undervalued and overvalued players based on their performance relative to their salary.
 
-- Points Per Possession (PPP): Evaluates offensive efficiency
-- Player Efficiency Rating (PER): Summarizes overall player performance
-- Win Shares (WS): Estimates the contributions of players to their teams in terms of wins
+- Points Per Possession (PPP): evaluates offensive efficiency
+- Player Efficiency Rating (PER): summarizes overall player performance
+- Win Shares (WS): estimates the contributions of players to their teams in terms of wins
 
 ## Data
 
@@ -34,7 +33,7 @@ I also filtered the data to include only players who have played at least 1000 m
 - Boston's current salary is notably low compared to her PPP, WS, and PER
 - She is contributing effectively on the court, yet receiving relatively lower compenation. This makes her a good example of an undervalued player in the WNBA
 
-3. Overvalyed player: Kalia Copper
+3. Overvalued player: Kalia Copper
 - Kalia Copper's salary for the 2024 season was $241,984, yet her PER and WS are notably low
 - Her performance metrics do not reflect her salary, suggesting that she is an overvalued player 
 

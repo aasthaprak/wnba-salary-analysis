@@ -15,7 +15,7 @@ I utilized and merged two datasets -- player statistics and salaries from the WN
 
 ## Methods
 
-My analysis employs linear regression techniques to evaluate the relationships between player salaries and performance metrics. The following R libraries were utilized:
+My analysis employs linear regression techniques to evaluate the relationships between player salaries and performance metrics. I utilized the following RStudio packages:
 - `ggplot2`: for data visualization
 - `dplyr`: for data manipulation
 - `magick`: for image processing and saving high-quality plots
